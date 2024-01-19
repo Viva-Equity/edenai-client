@@ -7,7 +7,7 @@ TypeScript library for interacting with Eden AI
 Currently the library is not published to npm, so you need to install it from github.
 
 ```bash
-npm i github:Uptech/edenai-client
+npm i github:Viva-Equity/edenai-client
 ```
 
 ## Github Workflows/Actions
